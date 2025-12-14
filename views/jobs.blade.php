@@ -8,6 +8,7 @@
         <meta http-equiv="refresh" content="{{ config('queue-monitor.ui.refresh_interval') }}">
     @endif
     <title>@lang('Queue Monitor')</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link href="{{ asset('vendor/queue-monitor/app.css') }}" rel="stylesheet">
 </head>
 
