@@ -1,6 +1,6 @@
 {
     "name": "romanzipp/laravel-queue-monitor",
-    "description": "Queue Monitoring for Laravel Database Job Queue",
+    "description": "Queue Monitoring for Laravel Database Job Queue test",
     "type": "library",
     "license": "MIT",
     "authors": [
